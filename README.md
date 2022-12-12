@@ -4,7 +4,7 @@ scanme is QR code generator using golang programming language, using library fro
 
 to use this code 
 
-```git clone https://github.com/vviia/scanme-qr-code.git```
+``git clone https://github.com/vviia/scanme-qr-code.git``
 
 then edit in main.go to change your url
 
