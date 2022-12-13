@@ -1,4 +1,11 @@
-### scanme-qr-code
+
+# <p align="center">scanme-qr-code</p>
+
+
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/86775678/207361557-886ce385-db5b-4eed-84d4-3873e662fed3.png"/>
+</p>
 
 scanme is QR code generator using golang programming language, using library from github.com/boombuler/barcode. 
 
@@ -17,10 +24,6 @@ for generate QR code with your QR code use
  ```
  
  for the result you can check in file scanme
-
- here is example result
- 
- ![image](https://user-images.githubusercontent.com/86775678/207361557-886ce385-db5b-4eed-84d4-3873e662fed3.png)
 
  
  good luck ^.^
