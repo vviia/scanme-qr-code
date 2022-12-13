@@ -17,6 +17,10 @@ for generate QR code with your QR code use
  ```
  
  for the result you can check in file scanme
+
+ here is example result
  
+ ![image](https://user-images.githubusercontent.com/86775678/207361557-886ce385-db5b-4eed-84d4-3873e662fed3.png)
+
  
  good luck ^.^
